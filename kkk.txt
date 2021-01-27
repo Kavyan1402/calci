@@ -1,0 +1,8 @@
+<html>
+<head>
+<h1>xyz-application</h1>
+</head>
+<body>
+<p>see how individuals are improving their career through the various applications that are available online</p>
+</body>
+</html>
